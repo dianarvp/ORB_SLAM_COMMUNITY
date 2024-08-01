@@ -115,7 +115,7 @@ Directory `Examples` contains several demo programs and calibration files to run
 
 1. Download all sequences (ASL format) from http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets and unzip them into a folder.
 
-2. Open the script "euroc_examples.sh" in the Examples_old directory of the project. Change **pathDatasetEuroc** variable to point to the directory where the datasets have been uncompressed.
+2. Open the script "euroc_examples.sh" in the Examples directory of the project. Change **pathDatasetEuroc** variable to point to the directory where the datasets have been uncompressed.
 
 4. Execute the following script to process all the sequences with all sensor configurations:
 ```
